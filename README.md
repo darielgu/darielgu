@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darielgu
 - I’m interested in becoming a full time SWE
-- I’m currently learning how to use Vim like a pro 
+- I’m currently learning how to use Vim 
 - Reach me - https://www.linkedin.com/in/dariel-gutierrez-a34057283/
 
 
