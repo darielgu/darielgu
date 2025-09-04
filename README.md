@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darielgu
 - I’m interested in becoming a full time SWE
 - Reach me - https://www.linkedin.com/in/dariel-gutierrez
-- [portfolio](https://aboutdariel.me)
+- [Check out my portfolio](https://aboutdariel.me)
 
 <!---
 darielgu/darielgu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
